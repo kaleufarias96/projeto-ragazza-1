@@ -1,0 +1,6 @@
+/*Configurando minha linha do sistema de grid*/
+.row {
+    max-width: 1140px; /*Define o tamanho máximo da linha*/
+    margin: 0 auto 0 auto; /*Define que o container vai ficar centralizado*/
+    /*margin: 0 auto; maneira alternativa para a linha de cima*/
+ }
